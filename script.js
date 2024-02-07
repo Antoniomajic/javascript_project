@@ -8,7 +8,7 @@ while(true){
     
     let computerChoice = getComputerChoice();
 
-    userInput=prompt("Input");
+    userInput=prompt("Type in rock, paper, or scissors.");
     userInput = userInput.toLowerCase();
 
 
